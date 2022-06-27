@@ -2,11 +2,11 @@
 
 This page does not aim to provide a comprehensive introduction to *CAPL*, rather it provides information necessary to accomplish basic things with *CAPL* that is unnecessarily difficult to find elsewhere.  Some more general information can be found at the following links:
 
-https://www.vector.com/int/en/know-how/capl/#
-https://cdn.vector.com/cms/content/products/VectorCAST/Events/TechNights/CAPLQuickstart_Generic_2018_Final.pdf
-https://www.embeddedc.in/p/n-capl-can-accessprogramming-language-n.html
-https://can-newsletter.org/assets/files/media/raw/a456e3078f907a0482182ce831912427.pdf
-https://robertscaplblog.files.wordpress.com/2016/02/capl_function_reference_manual.pdf  <-- Defines built-in functions
+<https://www.vector.com/int/en/know-how/capl/#>
+<https://cdn.vector.com/cms/content/products/VectorCAST/Events/TechNights/CAPLQuickstart_Generic_2018_Final.pdf>
+<https://www.embeddedc.in/p/n-capl-can-accessprogramming-language-n.html>
+<https://can-newsletter.org/assets/files/media/raw/a456e3078f907a0482182ce831912427.pdf>
+<https://robertscaplblog.files.wordpress.com/2016/02/capl_function_reference_manual.pdf>  <-- Defines built-in functions
 
 
 ## Initial Setup
