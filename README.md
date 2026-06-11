@@ -1,3 +1,6 @@
+> **Note:** This repository is no longer maintained. The authoritative version is now at:  
+> **[github.com/comstantin/CAPL-tips](https://github.com/comstantin/CAPL-tips)**
+
 # Vector CAPL, Getting Started:  Everything you need to know but no one will tell you.
 
 This page does not aim to provide a comprehensive introduction to *CAPL*, rather it provides information necessary to accomplish basic things with *CAPL* that is unnecessarily difficult to find elsewhere.  Some more general information can be found at the following links:
